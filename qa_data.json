@@ -1,0 +1,14 @@
+{
+    "what is your name?": "My name is Chatbot.",
+    "how are you?": "I'm doing well, thank you for asking.",
+    "what is the capital of France?": "The capital of France is Paris.",
+    "hi": "hello",
+    "who is ankit": "ankit is a software engineer",
+    "who is gaurav": "he created me",
+    "how are you": "i am fine",
+    "what are you": "i am a chatbot who learns whatever answer is feed into my memory ",
+    "how do you remeber all that": "i have access to a json file, which acts as my memory and whatever i got to know ,i constanly update that into that file",
+    "what version are you": "i am version one.",
+    "what is your name": "my name is ditto",
+    "what does that mean": "it means that i mimic answers "
+}
